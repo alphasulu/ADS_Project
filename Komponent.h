@@ -18,11 +18,6 @@ public:
 	int index = 0;
 };
 
-class NETS
-{
-public:
-	komponent A;
-	komponent* next;
-};
+
 
 #endif // _KOMPONENT_

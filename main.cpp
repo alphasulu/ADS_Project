@@ -56,6 +56,11 @@ int main(int argc, char* argv[])
 {
 	scanner();
 	print_kanten_tabelle();
+	zusammenfassung Netz;
+	Netz.parallel();
+
+	printf("Nach Parallel \n \n");
+	print_kanten_tabelle();
 	return 0;
 }
 
