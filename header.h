@@ -3,4 +3,4 @@
 #include <map>
 using namespace std;
 #include "Scanner.hpp"
-#include "global_var.h"
+#include "Komponent.h"
